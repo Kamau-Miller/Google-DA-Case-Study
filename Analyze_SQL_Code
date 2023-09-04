@@ -1,0 +1,23 @@
+SELECT * FROM `your_project_id.your_dataset.table1`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table2`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table3`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table4`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table5`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table6`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table7`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table8`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table9`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table10`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table11`
+UNION ALL
+SELECT * FROM `your_project_id.your_dataset.table12`
