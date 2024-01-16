@@ -1,4 +1,4 @@
-# Goolgle-DA-Case-Study
+# Google-DA-Case-Study
 Google Data Analyst Certificate Case Study
 # Cyclistic Bike-Share Case Study
 
